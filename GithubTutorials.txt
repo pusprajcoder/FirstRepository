@@ -1,0 +1,4 @@
+git clone url
+git add file name with extension
+git commint -m "message to be shown"
+git push => to send to web
